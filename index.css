@@ -1,0 +1,49 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.733);
+    width: 100wv;
+    height: 10vw;
+    
+    }
+    
+    .nav-links {
+    display: flex;
+    list-style: none;
+    }
+    
+    .nav-links a{
+        text-decoration: none;
+        color: white;
+        padding: 10px;
+    }
+    
+    .ASPASS{
+        color: white;
+    }
+    
+    .Login button{
+        background-color: blue;
+        padding: 10px 10px;
+        color: white;
+    
+    }
+    h2{
+        text-transform: capitalize;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        border: 1px;
+        margin: 60px;
+        text-align: center;
+    
+    }
+    #school{
+        margin: 40px;
+        padding: 20px;
+        text-align: justify;
+        line-height: 1.5;
+        text-transform: capitalize;
+    
+    }
